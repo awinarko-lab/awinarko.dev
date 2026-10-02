@@ -1,0 +1,14 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "awinarko-dev",
+	"compatibility_date": "2026-10-01",
+	// This site is fully static (output: "static"), so serve dist/ as static
+	// assets. Do NOT add the @astrojs/cloudflare adapter for this project:
+	// OG image generation uses @resvg/resvg-js (a native Node module), which
+	// cannot be bundled into a Worker. With this config present, `wrangler
+	// deploy` also skips its interactive Astro auto-configuration.
+	"assets": {
+		"directory": "./dist",
+		"not_found_handling": "404-page"
+	}
+}
