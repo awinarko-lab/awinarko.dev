@@ -2,7 +2,7 @@ import type { SiteConfig } from "@/types";
 import type { AstroExpressiveCodeOptions } from "astro-expressive-code";
 
 export const siteConfig: SiteConfig = {
-	author: "Syifa Hersista",
+	author: "Andy Winarko",
 	date: {
 		locale: "en-US",
 		options: {
@@ -11,15 +11,14 @@ export const siteConfig: SiteConfig = {
 			year: "numeric",
 		},
 	},
-	description:
-		"Personal blog of Syifa Hersista — notes on code, design, and the occasional half-formed idea.",
+	description: "Under construction.",
 	lang: "en-US",
 	ogLocale: "en_US",
 	sortPostsByUpdatedDate: false,
 	title: "awinarko.dev",
 	hideThemeCredit: false,
 	profile: {
-		name: "Syifa Hersista",
+		name: "Andy Winarko",
 	},
 	// Uncomment & fill in to enable Giscus comments on every post.
 	// comments: {
