@@ -1,14 +1,10 @@
 ---
 title: About
-description: A short introduction. Replace this in src/content/page/about.md.
+description: Who writes here.
 ---
 
-This is the About page. It's a markdown file at `src/content/page/about.md` — edit it freely. The shape is intentionally unstructured so you can write a paragraph, a list, a CV, or whatever fits.
+Hi, I'm Syifa Hersista. This is my corner of the internet — a place to write about things I'm building, learning, or can't stop thinking about.
 
-A few example bullets to get going:
+I work on software, and I expect most posts here will be notes from that world: tools I like, problems that took longer than they should have, and ideas still taking shape.
 
-- 👋 One-line intro — what you do, where, since when.
-- 🛠 The tools you reach for first.
-- 📝 What you tend to write about here.
-
-Find me on [GitHub](https://github.com/example), [LinkedIn](https://www.linkedin.com/in/example/), or by [email](mailto:john@example.com).
+Want to get in touch? The comment section on any post is open, or subscribe to the [RSS feed](/rss.xml) to follow along.
