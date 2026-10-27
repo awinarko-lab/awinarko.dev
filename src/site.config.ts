@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 	lang: "en-US",
 	ogLocale: "en_US",
 	sortPostsByUpdatedDate: false,
-	title: "The Long Compile",
+	title: "Still Compiling",
 	hideThemeCredit: false,
 	profile: {
 		name: "Andy Winarko",
