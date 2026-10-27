@@ -11,7 +11,8 @@ export const siteConfig: SiteConfig = {
 			year: "numeric",
 		},
 	},
-	description: "Under construction.",
+	description:
+		"I'm Andy Winarko. I build software for a living and write about software engineering, product development, and digital marketing.",
 	lang: "en-US",
 	ogLocale: "en_US",
 	sortPostsByUpdatedDate: false,
@@ -19,6 +20,9 @@ export const siteConfig: SiteConfig = {
 	hideThemeCredit: false,
 	profile: {
 		name: "Andy Winarko",
+		email: "hi@awinarko.dev",
+		github: "https://github.com/awinarko-lab",
+		linkedin: "https://www.linkedin.com/in/andywinarko",
 	},
 	// Uncomment & fill in to enable Giscus comments on every post.
 	// comments: {
